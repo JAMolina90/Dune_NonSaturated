@@ -1,0 +1,5 @@
+0.0		//Default value
+0		//Rectangles (areas)
+0.0 0.0 	//Corner 1
+0.05715 0.05715	//1.0 1.0	 //Corner 2
+1.0		//Value for this area
